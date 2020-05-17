@@ -4246,7 +4246,7 @@ span.fa.fa-play {
 
 .gleysal-specification-6 .grids-inn-ab {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+
   grid-gap: 30px; }
 
 .gleysal-specification-6 .mission-sec-gd img {
@@ -4262,7 +4262,7 @@ span.fa.fa-play {
 @media (max-width: 767px) {
   .gleysal-specification-6 .grids-inn-ab {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+  
     grid-gap: 10px; }
   .gleysal-specification-6 .mission-sec-gd img {
     margin-bottom: 16px; } }
